@@ -1,4 +1,5 @@
 # GuillemTorm.github.io
+https://www.figma.com/file/nIR7K7xDlDEspSxNVBc70M/Curiculum?type=design&node-id=0%3A1&mode=design&t=I7i1cMNlRYK47B0p-1
 
 Perfil d'Usuari Objectiu
 
